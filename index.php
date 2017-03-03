@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php include("includes/header.php");?>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -35,7 +34,7 @@
             <input type="text" name="searchfield" Value="Enter Search" style="color:black;"/>
             <input type="submit" name="search" value="Search" style="background-color: #952a08;"/>
             </form>
-            <hr class="hidden-sm hidden-xs " style="color:#821d0b"/>
+            <hr class="hidden-sm hidden-xs" style="color:#821d0b"/>
           </div>
           <div class="col-lg-4 col-md-4 hidden-sm hidden-xs frame3">
             <h2>Today In History</h2>
@@ -66,7 +65,6 @@
       </div>
       <div class="row">
         <img class="img-responsive hidden-lg hidden-md col-sm-12 col-xs-12" style="box-shadow: 1px 1px 5px #821d0b;" src="images/ww2img.jpg">
-        
       </div>
       <div class="row">
         <div class="col-lg-8 col-md-8" style="text-align:center;">
